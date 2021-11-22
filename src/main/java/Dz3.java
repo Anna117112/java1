@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class dz_3 {
+public class Dz3 {
     public static void main(String[] args) {
         array1();
         array2();
